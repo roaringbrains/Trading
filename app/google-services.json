@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703372968115",
+    "project_id": "trading-991b2",
+    "storage_bucket": "trading-991b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703372968115:android:7475786958ee4d95a970c6",
+        "android_client_info": {
+          "package_name": "com.india.trading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703372968115-al6c52u6csurds1lf1rug04t14aqcrvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.india.trading",
+            "certificate_hash": "d6a4a1a7c36f8d8f9dca09a6229dfdd5b5fa1c6d"
+          }
+        },
+        {
+          "client_id": "703372968115-lenq86nnkoi1031t80bfs75e852sij6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtHz4pwgxYXZeGLEYxhZS3np0kyNiAA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703372968115-lenq86nnkoi1031t80bfs75e852sij6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
